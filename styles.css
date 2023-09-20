@@ -285,7 +285,8 @@ body{
     /* background-image: url("./assets/backheader.png"); */
     /* background-image: url("./assets/backheader.png"); */
     background-image: url("./assets/newback8.png");
-    background-attachment: fixed;
+    background-size:cover ;
+    background-position: 10% 100%;
     justify-content: center;
     align-items: center;
     
