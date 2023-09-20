@@ -284,8 +284,8 @@ body{
     /* background-image: url("./assets/pingi1.png"); */
     /* background-image: url("./assets/backheader.png"); */
     /* background-image: url("./assets/backheader.png"); */
-    background-image: url("./assets/newback5.png");
-    background-size: 1520px;
+    background-image: url("./assets/newback8.png");
+    background-attachment: fixed;
     justify-content: center;
     align-items: center;
     
